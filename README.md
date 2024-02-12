@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **More about NextJs, NodeJs and Electron**
 
-- 📫 How to reach me **jhamiltonramm@me.com**
+- 📫 How to reach me **jhamiltonramm@outlook.com**
 
 - ⚡ Fun fact **I love new challenges**
 
